@@ -70,6 +70,8 @@ docker run -it azharmir/simple-hello-world
 
 ### Push the Image to DockerHub
 
+```
 docker push azharmir/simple-hello-world
+```
 
 > Login to ```https://hub.docker.com/``` to view your image on dockerhub repositories
